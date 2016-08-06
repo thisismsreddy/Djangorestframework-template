@@ -1,0 +1,11 @@
+site_name: myapis
+site_description: This will test project scafolding for new djangorestframework cookie cutter
+repo_url: https://github.com/thisismsreddy/drf-temp
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/thisismsreddy">thisismsreddy</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'

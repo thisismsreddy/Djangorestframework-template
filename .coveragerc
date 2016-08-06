@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = *migrations*,
+       *urls*,
+       *test*,
+       *admin*,
+       ./myapis/config/*,
+       ./myapis/manage.py,
+       ./myapis/wsgi.py,
+       *__init__*
